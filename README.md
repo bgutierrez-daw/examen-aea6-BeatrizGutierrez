@@ -2,4 +2,4 @@
 - DAW 2N
 - 22 anys
 
-«Modificació des de GitHub»
+«Modificació des de GitHub» 16/10/2026
